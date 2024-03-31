@@ -18,6 +18,11 @@ I'd love to connect, collaborate, or just chat. 💌 Reach out if you're as pass
   <img align="left" width="40em" src="https://cdn.simpleicons.org/gmail" alt="Alex's email" title="Alex's email" />
 </a>
 
+### 🧰 **Professional Toolkit**
+- **Languages**: C#, JavaScript, TypeScript, SQL
+- **Technologies**: .NET, .NET Core, ASP.NET MVC, Angular, Vue.js, SQL Server, MySql, PostgreSQL, Oracle Db, NoSQL (Mongo)
+- **Tools**: REST, Docker, Terraform, Kubernetes, ElasticSearch, GraphQL, Azure, Google Cloud
+- 
 <!--
 **Avdeev99/Avdeev99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
