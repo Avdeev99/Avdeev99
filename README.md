@@ -4,7 +4,7 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 
 [![Github Stats](https://github-readme-stats-git-master-avdeev99s-projects.vercel.app/api?username=avdeev99&hide=issues&include_all_commits=true&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-master-avdeev99s-projects.vercel.app/api/top-langs/?username=avdeev99&layout=compact&theme=default&langs_count=10&hide=ASP)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-avdeev99s-projects.vercel.app/api/top-langs/?username=avdeev99&layout=compact&theme=default&langs_count=10&hide=ASP,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Avdeev99/Avdeev99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
