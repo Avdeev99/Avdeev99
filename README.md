@@ -26,15 +26,13 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 
 ### :mortar_board: **Education**
 
-- Master of Science in Software Engineering
-  - *Kharkiv National University of Radio Electronics, Ukraine*
-  - *With High Honors*
-  - *GPA: 92.84 / 100*
+- Master of Science in Software Engineering **with high honors**
+  - Kharkiv National University of Radio Electronics, Ukraine
+  - GPA: 92.84 / 100
 
-- Bachelor of Science in Software Engineering
-  - *Kharkiv National University of Radio Electronics, Ukraine*
-  - *With High Honors*
-  - *GPA: 93.62 / 100*
+- Bachelor of Science in Software Engineering **with high honors**
+  - Kharkiv National University of Radio Electronics, Ukraine
+  - GPA: 93.62 / 100
 
 ---
 
