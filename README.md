@@ -12,10 +12,10 @@ I'd love to connect, collaborate, or just chat. 💌 Reach out if you're as pass
 
 ---
 <a href="https://www.linkedin.com/in/oleksii-avdieiev/">
-  <img align="left" width="24em" src="https://cdn.simpleicons.org/linkedin" alt="Follow Alex on LinkedIn" title="Follow Alex on LinkedIn" />
+  <img align="left" width="40em" src="https://cdn.simpleicons.org/linkedin" alt="Follow Alex on LinkedIn" title="Follow Alex on LinkedIn" />
 </a>
 <a href="mailto:avdieiev.oleksii@gmail.com">
-  <img align="left" width="26em" src="https://cdn.simpleicons.org/gmail" alt="Alex's email" title="Alex's email" />
+  <img align="left" width="40em" src="https://cdn.simpleicons.org/gmail" alt="Alex's email" title="Alex's email" />
 </a>
 
 <!--
