@@ -19,9 +19,22 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 ### 📄 [View My CV](https://drive.google.com/file/d/1kbf3ly5Myt5TmZGZvOLbt_c_WXJrc6zt/view?usp=sharing) for more details about my professional journey.
 
 ### 🧰 **Professional Toolkit**
+
 - **Languages**: C#, JavaScript, TypeScript, SQL
 - **Technologies**: .NET, .NET Core, ASP.NET MVC, Angular, Vue.js, SQL Server, MySql, PostgreSQL, Oracle Db, NoSQL (Mongo)
 - **Tools**: REST, Docker, Terraform, Kubernetes, ElasticSearch, GraphQL, Azure, Google Cloud
+
+### :mortar_board: Education
+
+- **Master of Science in Software Engineering**
+  - *Kharkiv National University of Radio Electronics, Ukraine*
+  - *With High Honors*
+  - *GPA: 92.84 / 100*
+
+- **Bachelor of Science in Software Engineering**
+  - *Kharkiv National University of Radio Electronics, Ukraine*
+  - *With High Honors*
+  - *GPA: 93.62 / 100*
 
 ---
 
