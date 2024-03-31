@@ -10,7 +10,7 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 
 - 💻 Full Stack Software Engineer with 5 years of experience, weaving code into digital masterpieces.
 - 🏢 Worked in the bustling halls of big tech companies and the nimble corridors of small startups.
-- 🚀 Proud participant of a startup showcased at WebSummit 2023 in Lisbon, where dreams took flight.
+- 🚀 Proud participant of a startup showcased at WebSummit 2023 in Lisbon, where dreams took flight (https://lemmi.io/).
 - ♟️ Enthusiastic chess player, always strategizing and planning my next move on and off the board.
 - 💃 Former professional ballroom dancer turned tech wizard, bringing grace and precision to every line of code.
 - 🎨 Lover of art, design, and creativity, infusing every project with a touch of aesthetic brilliance.
