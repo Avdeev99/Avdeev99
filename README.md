@@ -12,7 +12,8 @@ I'd love to connect, collaborate, or just chat. 💌 Reach out if you're as pass
 
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="40em" align="center" alt="Follow Alex on LinkedIn" title="Follow Alex on LinkedIn"/>](https://www.linkedin.com/in/oleksii-avdieiev/)
-[<img src="https://cdn.simpleicons.org/gmail" height="40em" align="center" alt="Alex's email" title="Alex's email"/>](mailto:mailtoavdieiev.oleksii@gmail.com)
+
+[<img src="https://cdn.simpleicons.org/gmail" height="40em" align="center" alt="Alex's email" title="Alex's email"/>](mailto:avdieiev.oleksii@gmail.com)
 
 <!--
 **Avdeev99/Avdeev99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
