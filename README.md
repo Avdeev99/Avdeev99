@@ -6,6 +6,13 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 
 [![Top Langs](https://github-readme-stats-git-master-avdeev99s-projects.vercel.app/api/top-langs/?username=avdeev99&layout=compact&theme=default&langs_count=10&hide=ASP,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+I'd love to connect, collaborate, or just chat. 💌 Reach out if you're as passionate about tech and innovation as I am!
+
+---
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="40em" align="center" alt="Follow Stepan on LinkedIn" title="Follow Stepan on LinkedIn"/>](https://www.linkedin.com/in/oleksii-avdieiev/)
+
 <!--
 **Avdeev99/Avdeev99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
