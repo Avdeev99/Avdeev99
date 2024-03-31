@@ -1,4 +1,4 @@
-### 🚀 Welcome to my Coding Odyssey! I'm Alex Avdieiev 👋
+## 🚀 Welcome to my Coding Odyssey! I'm Alex Avdieiev 👋
 
 Embark on a journey through the realms of code with me! 🌌 Whether you're a fellow coder, a curious explorer, or a tech enthusiast, you've found yourself in the right place. Let's dive into the wonders of software engineering together!
 
@@ -6,7 +6,7 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 
 [![Top Langs](https://github-readme-stats-git-master-avdeev99s-projects.vercel.app/api/top-langs/?username=avdeev99&layout=compact&theme=default&langs_count=10&hide=ASP,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
-## :bust_in_silhouette: About Me
+### :bust_in_silhouette: About Me
 
 - 💻 Full Stack Software Engineer with 5 years of experience, weaving code into digital masterpieces.
 - 🏢 Worked in the bustling halls of big tech companies and the nimble corridors of small startups.
