@@ -11,7 +11,8 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 I'd love to connect, collaborate, or just chat. 💌 Reach out if you're as passionate about tech and innovation as I am!
 
 ---
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="40em" align="center" alt="Follow Stepan on LinkedIn" title="Follow Stepan on LinkedIn"/>](https://www.linkedin.com/in/oleksii-avdieiev/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="40em" align="center" alt="Follow Alex on LinkedIn" title="Follow Alex on LinkedIn"/>](https://www.linkedin.com/in/oleksii-avdieiev/)
+[<img src="https://cdn.simpleicons.org/gmail" height="40em" align="center" alt="Alex's email" title="Alex's email"/>](mailto:mailtoavdieiev.oleksii@gmail.com)
 
 <!--
 **Avdeev99/Avdeev99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
