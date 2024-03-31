@@ -1,4 +1,4 @@
-## 🚀 Welcome to my Coding Odyssey! I'm Alex Avdieiev 👋
+## 🚀 **Welcome to my Coding Odyssey! I'm Alex Avdieiev** 👋
 
 Embark on a journey through the realms of code with me! 🌌 Whether you're a fellow coder, a curious explorer, or a tech enthusiast, you've found yourself in the right place. Let's dive into the wonders of software engineering together!
 
@@ -6,7 +6,7 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 
 [![Top Langs](https://github-readme-stats-git-master-avdeev99s-projects.vercel.app/api/top-langs/?username=avdeev99&layout=compact&theme=default&langs_count=10&hide=ASP,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
-### :bust_in_silhouette: About Me
+### :bust_in_silhouette: **About Me**
 
 - 💻 Full Stack Software Engineer with 5 years of experience, weaving code into digital masterpieces.
 - 🏢 Worked in the bustling halls of big tech companies and the nimble corridors of small startups.
@@ -16,15 +16,15 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 - 🎨 Lover of art, design, and creativity, infusing every project with a touch of aesthetic brilliance.
 - 🌟 Passionate about innovation, collaboration, and pushing the boundaries of what's possible in the tech world.
 
-### 📄 [View My CV](https://drive.google.com/file/d/1kbf3ly5Myt5TmZGZvOLbt_c_WXJrc6zt/view?usp=sharing) for more details about my professional journey.
+### 📄 [**View My CV**](https://drive.google.com/file/d/1kbf3ly5Myt5TmZGZvOLbt_c_WXJrc6zt/view?usp=sharing) for more details about my professional journey.
 
-### 🧰 Professional Toolkit
+### 🧰 **Professional Toolkit**
 
 - **Languages**: C#, JavaScript, TypeScript, SQL
 - **Technologies**: .NET, .NET Core, ASP.NET MVC, Angular, Vue.js, SQL Server, MySql, PostgreSQL, Oracle Db, NoSQL (Mongo)
 - **Tools**: REST, Docker, Terraform, Kubernetes, ElasticSearch, GraphQL, Azure, Google Cloud
 
-### :mortar_board: Education
+### :mortar_board: **Education**
 
 - Master of Science in Software Engineering
   - *Kharkiv National University of Radio Electronics, Ukraine*
