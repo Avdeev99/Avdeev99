@@ -8,6 +8,8 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 
 ### 🇺🇸 **Current Location: Connecticut, USA**
 
+### 📄 [**View My CV**](https://drive.google.com/file/d/1aiAeVk--8qGPQe9ByI3sDTwnHBCA6BZK/view?usp=sharing) for more details about my professional journey.
+
 ### :bust_in_silhouette: **About Me**
 
 - 💻 Full Stack Software Engineer with 5 years of experience, weaving code into digital masterpieces.
@@ -17,8 +19,6 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 - 💃 Former professional ballroom dancer turned tech wizard, bringing grace and precision to every line of code.
 - 🎨 Lover of art, design, and creativity, infusing every project with a touch of aesthetic brilliance.
 - 🌟 Passionate about innovation, collaboration, and pushing the boundaries of what's possible in the tech world.
-
-### 📄 [**View My CV**](https://drive.google.com/file/d/1aiAeVk--8qGPQe9ByI3sDTwnHBCA6BZK/view?usp=sharing) for more details about my professional journey.
 
 ### 🧰 **Professional Toolkit**
 
