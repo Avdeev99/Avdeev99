@@ -16,7 +16,7 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 - 🎨 Lover of art, design, and creativity, infusing every project with a touch of aesthetic brilliance.
 - 🌟 Passionate about innovation, collaboration, and pushing the boundaries of what's possible in the tech world.
 
-### 📄 [**View My CV**](https://drive.google.com/file/d/1kbf3ly5Myt5TmZGZvOLbt_c_WXJrc6zt/view?usp=sharing) for more details about my professional journey.
+### 📄 [**View My CV**](https://drive.google.com/file/d/1aiAeVk--8qGPQe9ByI3sDTwnHBCA6BZK/view?usp=sharing) for more details about my professional journey.
 
 ### 🧰 **Professional Toolkit**
 
