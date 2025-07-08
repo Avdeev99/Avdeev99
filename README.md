@@ -6,6 +6,8 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 
 [![Top Langs](https://github-readme-stats-git-master-avdeev99s-projects.vercel.app/api/top-langs/?username=avdeev99&layout=compact&theme=default&langs_count=10&hide=ASP,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🇺🇸 **Current Location: Connecticut, USA**
+
 ### :bust_in_silhouette: **About Me**
 
 - 💻 Full Stack Software Engineer with 5 years of experience, weaving code into digital masterpieces.
