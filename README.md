@@ -1,4 +1,4 @@
-## 🚀 **Welcome to my Coding Odyssey! I'm Alex Avdieiev** 👋
+## 🚀 **Welcome to my Coding Odyssey! I'm Oleksii Avdieiev** 👋
 
 Embark on a journey through the realms of code with me! 🌌 Whether you're a fellow coder, a curious explorer, or a tech enthusiast, you've found yourself in the right place. Let's dive into the wonders of software engineering together!
 
