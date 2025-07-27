@@ -2,7 +2,7 @@
 
 Embark on a journey through the realms of code with me! 🌌 Whether you're a fellow coder, a curious explorer, or a tech enthusiast, you've found yourself in the right place. Let's dive into the wonders of software engineering together!
 
-[![Alex's Github Stats](https://github-readme-stats-git-master-avdeev99s-projects.vercel.app/api?username=avdeev99&include_all_commits=true&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Oleksii's Github Stats](https://github-readme-stats-git-master-avdeev99s-projects.vercel.app/api?username=avdeev99&include_all_commits=true&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-master-avdeev99s-projects.vercel.app/api/top-langs/?username=avdeev99&layout=compact&theme=default&langs_count=10&hide=ASP,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -42,10 +42,10 @@ I'd love to connect, collaborate, or just chat. 💌 Reach out if you're as pass
 
 ---
 <a href="https://www.linkedin.com/in/oleksii-avdieiev/">
-  <img align="left" width="40em" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Follow Alex on LinkedIn" title="Follow Alex on LinkedIn" />
+  <img align="left" width="40em" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Follow Oleksii on LinkedIn" title="Follow Oleksii on LinkedIn" />
 </a>
 <a href="mailto:avdieiev.oleksii@gmail.com">
-  <img align="left" width="40em" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Alex's email" title="Alex's email" />
+  <img align="left" width="40em" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Oleksii's email" title="Oleksii's email" />
 </a>
   
 <!--
