@@ -8,7 +8,7 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 
 ### 🇺🇸 **Current Location: Connecticut, USA**
 
-### 📄 [**View My CV**](https://drive.google.com/file/d/1aiAeVk--8qGPQe9ByI3sDTwnHBCA6BZK/view?usp=sharing) for more details about my professional journey.
+### 📄 [**View My Resume**](https://drive.google.com/file/d/1aiAeVk--8qGPQe9ByI3sDTwnHBCA6BZK/view?usp=sharing) for more details about my professional journey.
 
 ### :bust_in_silhouette: **About Me**
 
