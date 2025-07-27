@@ -22,7 +22,7 @@ Embark on a journey through the realms of code with me! 🌌 Whether you're a fe
 
 ### 🧰 **Professional Toolkit**
 
-- **Languages**: C#, JavaScript, TypeScript, SQL
+- **Languages**: C#, JavaScript, TypeScript, SQL, Python
 - **Technologies**: .NET, .NET Core, ASP.NET MVC, Angular, Vue.js, SQL Server, MySql, PostgreSQL, Oracle Db, NoSQL (Mongo)
 - **Tools**: REST, Docker, Terraform, Kubernetes, ElasticSearch, GraphQL, Azure, Google Cloud
 
